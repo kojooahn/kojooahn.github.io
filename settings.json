@@ -4,12 +4,12 @@
     "subtitle": "얼굴로 보는 인공지능 똑똑상 테스트",
     "footerText": "&copy; 테크 2024. All Rights Reserved.",
     
-    "modelUrl": "https://teachablemachine.withgoogle.com/models/pchHSC6BJ/",
+    "modelUrl": "https://teachablemachine.withgoogle.com/models/CHGj_reH7/",
     "classDetails": [
         {
-            "name": "똑똑한 상",
-            "title": "똑똑한 상",
-            "explain": "당신은 똑똑한 상이다",
+            "name": "똑똑한상",
+            "title": "똑똑한상",
+            "explain": "당신은 똑똑한상이다",
             "celeb": "",
             "color": "rgba(27, 175, 234, 1)"
         },
