@@ -7,16 +7,16 @@
     "modelUrl": "https://teachablemachine.withgoogle.com/models/pchHSC6BJ/",
     "classDetails": [
         {
-            "name": "똑똑한상",
+            "name": "똑똑한 상",
             "title": "똑똑한상",
-            "explain": "당신은 똑똑한 상이다",
+            "explain": "당신은 똑똑한상이다",
             "celeb": "",
             "color": "rgba(27, 175, 234, 1)"
         },
         {
             "name": "바보상",
             "title": "바보상",
-            "explain": "",
+            "explain": "당신은 바보상이다",
             "celeb": "",
             "color": "rgba(251, 176, 59, 1)"
         }
